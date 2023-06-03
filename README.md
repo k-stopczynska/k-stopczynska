@@ -74,7 +74,7 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=k-stopczynska&layout=compact&show_icons=true&theme=merko&border_radius=4)
 
 </div>
-----------------------------------------------------------------------------------
+
 <div class="footer" align="center" style="margin:15px;">
     <a href="https://www.linkedin.com/in/klaudia-stopczynska/" target="_blank">
         <img  style="margin:0 10px 10px 0;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="youtube" width="40px"/>
