@@ -1,9 +1,10 @@
 ![Header](./github-header-image.png)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-   Passionate software developer looking for an opportunity to work with like-minded people to make users' lives more beautiful and easier.
+   Author and maintainer of codegroove- VSCode extension with over 150 users for tracking coding time that renders your statistics in webview inside your code editor. You can install it from <a href=https://marketplace.visualstudio.com/items?itemName=codegroove.codegroove target="_blank">here</a> or search for it in extensions tab in VSCode.
+   Blogger about everything software and not only related, check out the latest posts: <a href=https://ainspiring.netlify.app target="_blank">click!</a>
+   Currently working on a Java tower defense game - Petz vs. Veggiez.
    Taking every opportunity to learn and grow by collaborating on group projects, taking part in meetups, applying for workshops and courses.
-   Interested in automations, aggregates, 3D rendering, animations.
    In my spare time I ride and service my bikes, train dogs, and code games :)
 <br>
 <br>
@@ -24,6 +25,9 @@
 <div style="padding-right:25px;">
     <img width="60px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
 </div>
+   <a href=https://docs.oracle.com/en/java/ target="_blank" rel="noreferrer">
+      <img  alt="Java" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+  </a>
   <a href=https://docs.python.org/3/ target="_blank" rel="noreferrer">
       <img  alt="JavaScript" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   </a>
@@ -48,26 +52,13 @@
       <img  alt="CSS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-      <img  alt="Tailwind" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
+      <img  alt="Tailwind" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
   </a>
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
       <img  alt="Sass" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
   </a> 
-
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-      <img  alt="firebase" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
-  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img  alt="Git" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  </a>
-  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-      <img  alt="NPM" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-      <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-      <img  alt="Figma" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> 
   </a>
 </div>
 <br>
